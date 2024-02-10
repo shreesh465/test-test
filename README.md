@@ -45,5 +45,5 @@
 <p>
     <strong>Summary:</strong> This class encapsulates the core functionality of the Weather App. It includes methods to fetch weather data and location coordinates, convert weather codes into readable weather conditions, and manage API requests. This class acts as the bridge between the GUI and the external weather data source, ensuring that weather information is retrieved and displayed accurately.
 
-    Updates for githubs
+    Updates for github -- 1
 </p>
